@@ -4,8 +4,8 @@
 <img src="https://img.shields.io/badge/jsimonassi@id.uff.br-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="jsimonassi@id.uff.br">  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-simonassi-farias-6b94b218b/"><img src="https://img.shields.io/badge/João Victor Simonassi-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 #
 ### About me:
-- Graduating in Computer Science at UFF - Universidade Federal Fluminense
-- Mobile Developer at Radix Engenharia e Software
+- Graduating in Computer Science at UFF - <a href="http://www.uff.br/">Universidade Federal Fluminense</a>
+- Mobile Developer at <a href="https://www.radixeng.com.br/">Radix Engenharia e Software</a>
 #
 ### Languages and Tools 🛠 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
