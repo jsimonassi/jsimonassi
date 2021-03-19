@@ -1,5 +1,4 @@
 ![Name](https://github.com/jsimonassi/jsimonassi/blob/main/title_image.png) 
- # João Victor Simonassi
 ### How to reach me: <strong>(Click the badge to view my profiles !)</strong>
 <img src="https://img.shields.io/badge/jsimonassi@id.uff.br-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" href="jsimonassi@id.uff.br">  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-simonassi-farias-6b94b218b/"><img src="https://img.shields.io/badge/João Victor Simonassi-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 #
